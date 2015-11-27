@@ -41,18 +41,6 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="F:\mavenServer\Repositories" />
-        <option name="mavenHome" value="F:/mavenServer/maven" />
-        <option name="userSettingsFile" value="F:\mavenServer\maven\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="xianwei" />
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
