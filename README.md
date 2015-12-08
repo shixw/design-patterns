@@ -11,7 +11,7 @@ Java设计模式学习代码
 |	Prototype	|	原型模式	|√   |创建型模式|
 |	Adapter	|	适配器模式	|√   |结构型模式|
 |	Bridge	|	桥接模式	||结构型模式|
-|	Composite	|	组合模式	||结构型模式|
+|	Composite	|	组合模式	|√|结构型模式|
 |	Decorator	|	装饰模式	||结构型模式|
 |	Facade	|	外观模式	|√   |结构型模式|
 |	Flyweight	|	享元模式	||结构型模式|
