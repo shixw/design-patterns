@@ -16,7 +16,7 @@ Java设计模式学习代码
 |	Facade	|	外观模式	|√   |结构型模式|
 |	Flyweight	|	享元模式	||结构型模式|
 |	Proxy	|	代理模式	|√|结构型模式|
-|	Template Methed	|	模板方法	||行为型模式|
+|	Template Methed	|	模板方法	|√|行为型模式|
 |	Command	|	命令模式	|√|行为型模式|
 |	Interpreter	|	解释器模式	||行为型模式|
 |	Mediator	|	中介者模式	||行为型模式|
