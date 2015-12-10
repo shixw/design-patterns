@@ -25,6 +25,6 @@ Java设计模式学习代码
 |	Chain Of Responsibility	|	职责链模式	||行为型模式|
 |	Memento	|	备忘录模式	||行为型模式|
 |	State	|	状态模式	||行为型模式|
-|	Strategy	|	策略模式	||行为型模式|
+|	Strategy	|	策略模式	|√|行为型模式|
 |	Visitor	|	访问者模式	||行为型模式|
 
