@@ -1,7 +1,6 @@
 package com.alby.dp.state.example5;
 
 
-import com.alby.dp.state.example4.BlackWarnVoteState;
 
 /**
  * Created by xianwei on 2015/12/14.
@@ -20,7 +19,7 @@ public class SpiteVoteState implements VoteState {
 
 
         if (voteManager.getMapVoteCount().get(user)>=7){
-            voteManager.getMapState().put(user,new BlackWarnVoteState());
+            voteManager.getMapState().put(user,new BlackVoteState());
         }
     }
 }
