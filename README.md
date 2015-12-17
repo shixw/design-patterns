@@ -14,7 +14,7 @@ Java设计模式学习代码
 |	Composite	|	组合模式	|√|结构型模式|
 |	Decorator	|	装饰模式	||结构型模式|
 |	Facade	|	外观模式	|√   |结构型模式|
-|	Flyweight	|	享元模式	||结构型模式|
+|	Flyweight	|	享元模式	|√|结构型模式|
 |	Proxy	|	代理模式	|√|结构型模式|
 |	Template Methed	|	模板方法	|√|行为型模式|
 |	Command	|	命令模式	|√|行为型模式|
